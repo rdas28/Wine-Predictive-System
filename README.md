@@ -1,10 +1,10 @@
 Wine Quality Prediction
 
-Overview
+Overview:
 
 This project focuses on predicting the quality of red wine using machine learning techniques. The dataset used is winequality-red.csv, which contains physicochemical properties of different wines along with their quality ratings. The model employs a Random Forest Classifier to classify wine quality as either good or bad based on predefined thresholds.
 
-Dataset
+Dataset:
 
 The dataset consists of multiple features representing the physicochemical properties of wine:
 
@@ -32,7 +32,7 @@ Alcohol
 
 Quality (target variable)
 
-Installation
+Installation:
 
 To run this project, you need to have Python 3.x installed along with the following dependencies:
 
